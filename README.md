@@ -23,7 +23,7 @@ Links are stored in the browser using LocalStorage, so no backend or database is
 
 ## Getting Started
 Clone the repository
-git clone https://github.com/CharleeWatkins/CharleeUIOneChallenge.git
+git clone https://github.com/CharleeWatkins/link_vault_project.git
 
 ## The project  is available under branch:
 feature/links-vault-task
